@@ -1,0 +1,20 @@
+{
+	"name": "reactskill-space/laravel-bizon365",
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"ReactskillSpace\\LaravelBizon365\\": "src/App/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Valentin Zubchenko",
+			"email": "reactskill@yandex.ru",
+			"homepage": "https://github.com/reactskill-space"
+		}
+	],
+	"minimum-stability": "stable",
+	"require": {
+		"php": "^8.0.2"
+	}
+}
